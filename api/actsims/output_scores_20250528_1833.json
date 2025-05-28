@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://medium.com/@sashanakamoto/some-post",
+    "signal_type": "content",
+    "keywords_triggered": [
+      "blockchain",
+      "acquisition",
+      "defi"
+    ],
+    "sentiment": "Neutral",
+    "author_type": "web3 analyst",
+    "score": 4.5
+  }
+]
